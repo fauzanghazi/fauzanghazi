@@ -1,17 +1,9 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
-<h3 align="center">Data Analyst exploring Data Engineering</h3>
+Hi! Fauzan Ghazi here 👋
+========================
 
-🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
-
-🌱 I’m currently learning **Data Engineering**
-
-👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
-
-📄 Know about my experiences [here](https://fauzanghazi.notion.site/Resume-f0d5b3feeafb460eba538fe565575efd)
-
-💬 Ask me about **Analytics**
+### Data Analyst exploring Data Engineering
 
 ### 💻 Tech Stack:
 
@@ -24,7 +16,17 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
+
+🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
+
+🌱 I’m currently learning **Data Engineering**
+
+👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
+
+📄 Know about my experiences [here](https://fauzanghazi.notion.site/Resume-f0d5b3feeafb460eba538fe565575efd)
+
+💬 Ask me about **Analytics**
+
 ### Connect with me:
 
 <a href="https://linkedin.com/in/fauzan-ghazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-ghazi" height="30" width="40" /></a>
-
