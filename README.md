@@ -7,6 +7,8 @@
 
 👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
 
+📄 Know about my experiences [here](https://fauzanghazi.notion.site/Resume-f0d5b3feeafb460eba538fe565575efd)
+
 💬 Ask me about **Analytics**
 
 <h3 align="left">Connect with me:</h3>
