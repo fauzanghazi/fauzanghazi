@@ -3,7 +3,7 @@
 <h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
 <h3 align="center">Data Analyst exploring Data Engineering</h3>
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
@@ -14,7 +14,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-### 🧑🏽‍💻 About Me:
+### 🧑🏽‍💻 About Me
 
 🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
