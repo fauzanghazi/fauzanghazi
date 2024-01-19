@@ -7,8 +7,6 @@
 
 👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
 
-📝 I regularly write articles on [fauzan.io](fauzan.io)
-
 💬 Ask me about **Analytics**
 
 <h3 align="left">Connect with me:</h3>
