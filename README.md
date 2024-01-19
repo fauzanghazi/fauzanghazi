@@ -1,15 +1,15 @@
 <h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
 <h3 align="center">Data Analyst exploring Data Engineering</h3>
 
-- 🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
+🔭 I’m currently working on [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
-- 🌱 I’m currently learning **Data Engineering**
+🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
+👨‍💻 All of my projects are available at [fauzan.io](fauzan.io)
 
-- 📝 I regularly write articles on [fauzan.io](fauzan.io)
+📝 I regularly write articles on [fauzan.io](fauzan.io)
 
-- 💬 Ask me about **Analytics**
+💬 Ask me about **Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
