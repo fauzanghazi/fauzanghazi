@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif))](fauzan.io)
+[![MasterHead]([https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](fauzan.io)
 
 <h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
 <h3 align="center">Data Analyst exploring Data Engineering</h3>
