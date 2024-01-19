@@ -1,9 +1,7 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
-Hi! Fauzan Ghazi here 👋
-========================
-
-### Data Analyst exploring Data Engineering
+<h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
+<h3 align="center">Data Analyst exploring Data Engineering</h3>
 
 ### 💻 Tech Stack:
 
