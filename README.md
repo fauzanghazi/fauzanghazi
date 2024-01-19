@@ -20,7 +20,7 @@
 
 🌱 I’m currently learning **Data Engineering**
 
-👨‍💻 All of my projects are available at [https://fauzan.io](fauzan.io)
+👨‍💻 All of my projects are available at [fauzan.io](https://fauzan.io)
 
 📄 Know about my experiences [here](https://fauzanghazi.notion.site/Resume-f0d5b3feeafb460eba538fe565575efd)
 
