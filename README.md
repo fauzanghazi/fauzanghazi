@@ -17,7 +17,7 @@ Hi! Fauzan Ghazi here 👋
 
 ### Connect with me:
 
-[![fauzan-ghazi](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/fauzan-ghazi)
+<a href="https://linkedin.com/in/fauzan-ghazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan-ghazi" height="30" width="40" /></a>
 
 ### 💻 Tech Stack:
 
