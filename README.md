@@ -20,23 +20,23 @@
 
 📂 These are the courses that in the series:
 
-| Status      | Course      | URL |
-| ----------- | ----------- | ----------- |
-| Done ☀️     | Machine Learning & Data Science: The Complete Visual Guide      | [Udemy](https://www.udemy.com/course/visual-guide-to-machine-learning) |
-| Current ⚡     | Machine Learning & Data Science: The Complete Visual Guide Python Data Science: Data Prep & EDA with Python | [Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/) |
-| Upcoming ☁️     |  Python Data Science: Regression & Forecasting | [Udemy](https://www.udemy.com/course/data-science-in-python-regression) |
-| Upcoming ☁️     | Python Data Science: Classification Modeling | [Udemy](https://www.udemy.com/course/data-science-in-python-classification/) |
-| Upcoming ☁️     | Python Data Science: Unsupervised Machine Learning | [Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/) |
+| Status|Course|URL|
+|-----------|-----------|-----------|
+| Done ☀️| Machine Learning & Data Science: The Complete Visual Guide|[Udemy](https://www.udemy.com/course/visual-guide-to-machine-learning)|
+| Current ⚡|Python Data Science: Data Prep & EDA with Python|[Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/)|
+| Upcoming ☁️|Python Data Science: Regression & Forecasting|[Udemy](https://www.udemy.com/course/data-science-in-python-regression)|
+| Upcoming ☁️|Python Data Science: Classification Modeling|[Udemy](https://www.udemy.com/course/data-science-in-python-classification/)|
+| Upcoming ☁️|Python Data Science: Unsupervised Machine Learning|[Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/)|
 
 ⏭️ My next skill extraction journey will continue on Cloud Computing & Data Engineering.
 
 📂 My course checklist is as follows:
 
-| Status      | Course      | URL |
-| ----------- | ----------- | ----------- |
-| Upcoming ☁️     |  Ultimate AWS Certified Cloud Practitioner CLF-C02 2025 | [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) |
-| Upcoming ☁️     | DeepLearning.AI Data Engineering Professional Certificate | [Coursera](https://www.coursera.org/professional-certificates/data-engineering) |
-| Upcoming ☁️     | Python Data Science: Unsupervised Machine Learning | [Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/) |
+|Course| URL|
+|-----------|-----------|
+|Ultimate AWS Certified Cloud Practitioner CLF-C02 2025 | [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)|
+|DeepLearning.AI Data Engineering Professional Certificate | [Coursera](https://www.coursera.org/professional-certificates/data-engineering)|
+|Python Data Science: Unsupervised Machine Learning | [Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/)|
 
 👨‍💻 All of my projects are available at [here](https://fauzanghazi.notion.site/07de4467a85a44f292cd631304f37dac?v=47baa22e1da746048b6c91ec06778593)
 
