@@ -28,7 +28,7 @@
 | Upcoming ☁️|Python Data Science: Classification Modeling|[Udemy](https://www.udemy.com/course/data-science-in-python-classification/)|
 | Upcoming ☁️|Python Data Science: Unsupervised Machine Learning|[Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/)|
 
-⏭️ My next skill extraction journey will continue on Cloud Computing & Data Engineering.
+⏭️ My next skill extraction journey will continue on **Cloud Computing** & **Data Engineering**.
 
 📂 My course checklist is as follows:
 
