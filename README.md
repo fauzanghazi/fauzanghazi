@@ -24,7 +24,6 @@
 | ----------- | ----------- | ----------- |
 | Done ☀️     | Machine Learning & Data Science: The Complete Visual Guide      | [Udemy](https://www.udemy.com/course/visual-guide-to-machine-learning) |
 | Current ⚡     | Machine Learning & Data Science: The Complete Visual Guide Python Data Science: Data Prep & EDA with Python | [Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/) |
-| Upcoming ☁️     | Machine Learning & Data Science: The Complete Visual Guide Python Data Science: Data Prep & EDA with Python | [Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/) |
 | Upcoming ☁️     |  Python Data Science: Regression & Forecasting | [Udemy](https://www.udemy.com/course/data-science-in-python-regression) |
 | Upcoming ☁️     | Python Data Science: Classification Modeling | [Udemy](https://www.udemy.com/course/data-science-in-python-classification/) |
 | Upcoming ☁️     | Python Data Science: Unsupervised Machine Learning | [Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/) |
