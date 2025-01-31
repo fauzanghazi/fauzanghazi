@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
 
-<h3 align="center"> Connect with me on [LinkedIn](https://www.linkedin.com/in/fauzan-ghazi/) </h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/fauzan-ghazi/" target="_blank">Connect with me on LinkedIn</a></h3>
 
 <h3 align="center">Data Analyst exploring Machine Learning & Data Engineering</h3>
 
