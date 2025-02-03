@@ -20,13 +20,13 @@
 
 📂 These are the courses that in the series:
 
-| Status|Course|URL|
-|-----------|-----------|-----------|
-| Done ☀️| Machine Learning & Data Science: The Complete Visual Guide|[Udemy](https://www.udemy.com/course/visual-guide-to-machine-learning)|
-| Current ⚡|Python Data Science: Data Prep & EDA with Python|[Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/)|
-| Upcoming ☁️|Python Data Science: Regression & Forecasting|[Udemy](https://www.udemy.com/course/data-science-in-python-regression)|
-| Upcoming ☁️|Python Data Science: Classification Modeling|[Udemy](https://www.udemy.com/course/data-science-in-python-classification/)|
-| Upcoming ☁️|Python Data Science: Unsupervised Machine Learning|[Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/)|
+| Status|Course|URL|Start|Finish|
+|-----------|-----------|-----------|-----------|-----------|
+| Done ☀️| Machine Learning & Data Science: The Complete Visual Guide|[Udemy](https://www.udemy.com/course/visual-guide-to-machine-learning)|Dec 2024|Jan 2025|
+| Current ⚡|Python Data Science: Data Prep & EDA with Python|[Udemy](https://www.udemy.com/course/data-science-in-python-data-prep-eda/)|Jan 2025|NA|
+| Upcoming ☁️|Python Data Science: Regression & Forecasting|[Udemy](https://www.udemy.com/course/data-science-in-python-regression)|NA|NA|
+| Upcoming ☁️|Python Data Science: Classification Modeling|[Udemy](https://www.udemy.com/course/data-science-in-python-classification/)|NA|NA|
+| Upcoming ☁️|Python Data Science: Unsupervised Machine Learning|[Udemy](https://www.udemy.com/course/data-science-in-python-unsupervised-learning/)|NA|NA|
 
 ⏭️ My next skill extraction journey will continue on **Cloud Computing** & **Data Engineering**.
 
