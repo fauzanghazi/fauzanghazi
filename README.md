@@ -1,6 +1,9 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
+
+<h3 align="center">Connect with me on <a href="https://www.linkedin.com/in/fauzan-ghazi/" target="_blank">LinkedIn</a></h3>
+
 <h3 align="center">Data Analyst exploring Machine Learning & Data Engineering</h3>
 
 ### 💻 Tech Stack
@@ -42,5 +45,3 @@
 📄 Know about my experiences [here](https://fauzanghazi.notion.site/Resume-f0d5b3feeafb460eba538fe565575efd)
 
 💬 Ask me about **Analytics**
-
-#### Connect with me on [LinkedIn](https://www.linkedin.com/in/fauzan-ghazi/)
