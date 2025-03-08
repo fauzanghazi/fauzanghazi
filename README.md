@@ -1,6 +1,6 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi! Fauzan Ghazi here 👋</h1>
+<h1 align="center">Hi! Fauzan here 👋</h1>
 
 <h3 align="center">Connect with me on <a href="https://www.linkedin.com/in/fauzan-ghazi/" target="_blank">LinkedIn</a></h3>
 
