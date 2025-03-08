@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me on <a href="https://www.linkedin.com/in/fauzan-ghazi/" target="_blank">LinkedIn</a></h3>
 
-<h3 align="center">Data Analyst exploring Machine Learning & Data Engineering</h3>
+<h3 align="center">Business Analyst exploring Machine Learning & Data Engineering</h3>
 
 ### 💻 Tech Stack
 
